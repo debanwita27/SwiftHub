@@ -40,9 +40,11 @@
     ```
 
 - Go to the **server** directory:
+
   ```shell
   cd ../server
   ```
+
   - Install server-side dependencies:
 
     ```shell
@@ -131,3 +133,5 @@ yarn run dev
 > **Note**
 >
 > You can find more information about these dependencies in the project's documentation or their respective websites.
+
+Starter project attribution: https://github.com/ToxyhDev/vitejs-stack-mern-quickstart
